@@ -1,7 +1,7 @@
 {
   "name": "pang-components",
   "version": "1.0.0",
-  "description": "Mobile UI Components built on Vue",
+  "description": "pang-components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "style": "lib/index.css",
@@ -36,18 +36,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:youzan/vant.git"
+    "url": "git@github.com:panglehaoya/pang-components.git"
   },
   "keywords": [
-    "ui",
-    "vue",
-    "vue3",
-    "mobile",
-    "frontend",
-    "component",
-    "components"
+    "pang-components"
   ],
-  "author": "youzanfe",
+  "author": "panglehaoya",
   "license": "MIT",
   "dependencies": {
     "@vant/icons": "^1.7.0",
