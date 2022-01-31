@@ -1969,10 +1969,12 @@
   resolved "https://registry.npmjs.org/@vant/icons/-/icons-1.7.0.tgz#02d427532a8142c35db159da9c364fe6890c3ac9"
   integrity sha512-sqKvtYcSgSd6+AU1nBPaZARn2Nzf8hi0ErLhfXVR6f+Y7R0gojGZVoxuB83yUI6+0LwbitW5IfN3E6qzEsu21Q==
 
-"@vant/lazyload@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.nlark.com/@vant/lazyload/download/@vant/lazyload-1.2.0.tgz?cache=0&sync_timestamp=1620006645125&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40vant%2Flazyload%2Fdownload%2F%40vant%2Flazyload-1.2.0.tgz#62e9779bd7844ad8f71c2ca2bf852e6147c7a86d"
-  integrity sha1-Yul3m9eEStj3HCyiv4UuYUfHqG0=
+"@vant/lazyload@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@vant/lazyload/-/lazyload-1.4.0.tgz#e0529326917d8cb2264ee2e4eb08f1a03aab2c1d"
+  integrity sha512-KCbo+jZYPFGIlSip3FLbegdx3h+4e2tTamyO02o2eckUiCaCgaHO5bEX/sWcDm+jEZFT02PRW3Z3LRFSRxh5rw==
+  dependencies:
+    "@vant/use" "^1.3.2"
 
 "@vant/markdown-loader@^4.1.0":
   version "4.1.0"
@@ -2014,10 +2016,10 @@
   resolved "https://registry.nlark.com/@vant/touch-emulator/download/@vant/touch-emulator-1.3.0.tgz#f53a7d0c5809b91d51b7fd4c24e762673bf1f679"
   integrity sha1-9Tp9DFgJuR1Rt/1MJOdiZzvx9nk=
 
-"@vant/use@^1.3.0":
-  version "1.3.0"
-  resolved "https://registry.nlark.com/@vant/use/download/@vant/use-1.3.0.tgz#b7d461c00078f7501ff7678771f1431fbf747b42"
-  integrity sha1-t9RhwAB491Af92eHcfFDH790e0I=
+"@vant/use@^1.3.0", "@vant/use@^1.3.2":
+  version "1.3.5"
+  resolved "https://registry.yarnpkg.com/@vant/use/-/use-1.3.5.tgz#fd2817850e76e3098e29d4c8d864e19207c03ab1"
+  integrity sha512-S4rfMQT+71quUbSY9sF7vJTEADVWqHxn8zUbpEl4vzI2CCJx67ri/ZHV911LpXIaZVgSSGPLE5xLV8javmbU0Q==
 
 "@vue/babel-helper-vue-transform-on@^1.0.2":
   version "1.0.2"
