@@ -1995,9 +1995,9 @@
     fs-extra "^9.0.0"
 
 "@vant/popperjs@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.npm.taobao.org/@vant/popperjs/download/@vant/popperjs-1.1.0.tgz?cache=0&sync_timestamp=1617712476713&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vant%2Fpopperjs%2Fdownload%2F%40vant%2Fpopperjs-1.1.0.tgz#b4edee5bbfa6fb18705986e313d4fd5f17942a0f"
-  integrity sha1-tO3uW7+m+xhwWYbjE9T9XxeUKg8=
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@vant/popperjs/-/popperjs-1.2.0.tgz#9b56e0a5e66ce9bef8d2f3f5b4cb540cd2143260"
+  integrity sha512-YdtVBcNCsZqCBu7vUvpTm9MG4V+Hz5UmCr7UZlNXoYXZbDD238ncqNStw+gQVWySeCY5yAQVOT6deJN5poVe8g==
   dependencies:
     "@popperjs/core" "^2.9.2"
 
