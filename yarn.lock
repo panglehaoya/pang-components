@@ -2015,9 +2015,9 @@
   integrity sha1-9Tp9DFgJuR1Rt/1MJOdiZzvx9nk=
 
 "@vant/use@^1.3.0":
-  version "1.3.0"
-  resolved "https://registry.nlark.com/@vant/use/download/@vant/use-1.3.0.tgz#b7d461c00078f7501ff7678771f1431fbf747b42"
-  integrity sha1-t9RhwAB491Af92eHcfFDH790e0I=
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@vant/use/-/use-1.4.0.tgz#a795ddc7b5f95ab14666b5e8fa628930e712a59e"
+  integrity sha512-pW0DuV12cSaChubJYWJiAYkCr257yaxXsrxzluMUQQu7C/hSGtFoAYPI/K5ik2T7/Z+vhSNPpYwQzxI167hN+w==
 
 "@vue/babel-helper-vue-transform-on@^1.0.2":
   version "1.0.2"
